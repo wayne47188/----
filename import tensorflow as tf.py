@@ -40,6 +40,7 @@ data = [
     # 添加更多數據
 ]
 
+
 # 提取特徵標籤
 features = []
 labels = []
